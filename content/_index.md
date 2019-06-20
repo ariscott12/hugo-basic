@@ -1,7 +1,6 @@
 ---
-title: "About Ari"
-date: 2019-05-30T11:41:04-06:00
-draft: false
----
+title: About Ari
+date: 2019-05-30T17:41:04.000+00:00
 
-asdf
+---
+asdfssss
